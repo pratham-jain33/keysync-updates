@@ -1,1 +1,6 @@
-{"apk_url":"https://raw.githubusercontent.com/pratham-jain33/keysync-updates/main/app-release.apk","version_code":32,"version_name":"4.8"}
+{
+  "versionCode": 33,
+  "versionName": "4.9",
+  "downloadUrl": "https://raw.githubusercontent.com/pratham-jain33/keysync-updates/main/app-release.apk",
+  "changelog": "Piano reverb tail cut (max 2.5s sustain). Tempo slider up to 500%. Transcription cancel fixed."
+}
