@@ -1,6 +1,6 @@
 {
-  "version_code": 36,
-  "version_name": "4.13",
+  "version_code": 37,
+  "version_name": "4.14",
   "apk_url": "https://raw.githubusercontent.com/pratham-jain33/keysync-updates/main/app-release.apk",
-  "changelog": "Simplified melody toggle in Practice mode."
+  "changelog": "Piano samples trimmed at source (no reverb tail)."
 }
