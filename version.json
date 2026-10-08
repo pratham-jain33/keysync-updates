@@ -1,6 +1,6 @@
 {
-  "version_code": 35,
-  "version_name": "4.12",
+  "version_code": 36,
+  "version_name": "4.13",
   "apk_url": "https://raw.githubusercontent.com/pratham-jain33/keysync-updates/main/app-release.apk",
-  "changelog": "Updater accepts both field formats. Piano reverb cut. Tempo to 500%."
+  "changelog": "Simplified melody toggle in Practice mode."
 }
