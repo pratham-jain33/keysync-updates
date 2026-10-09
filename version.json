@@ -1,6 +1,1 @@
-{
-  "version_code": 40,
-  "version_name": "4.17",
-  "apk_url": "https://raw.githubusercontent.com/pratham-jain33/keysync-updates/main/app-release.apk",
-  "changelog": "New experimental AI thinking toggle in transcription options: LLM reviews dense passages for musical correctness."
-}
+{"apk_url":"https://raw.githubusercontent.com/pratham-jain33/keysync-updates/main/app-release.apk","changelog":"New V0 Left Hand mode: generates left-hand piano accompaniment from any song. Toggle it in transcription options, then practice the left hand while the song plays. Includes real BPM detection.","version_code":41,"version_name":"4.18"}
